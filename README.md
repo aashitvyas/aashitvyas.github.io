@@ -1,2 +1,2 @@
 # aashitvyas.github.io
-GitHub Pages website for aashitvyas.com
+GitHub Pages Repo for aashitvyas.com
